@@ -1,0 +1,32 @@
+{
+  "name": "5-blog-info",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "commit": "pnpm -w commit",
+    "server": "json-server --watch db.json --port 8000"
+  },
+  "dependencies": {
+    "@swc/helpers": "^0.4.6",
+    "json-server": "^0.17.0",
+    "next": "12.2.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "styled-components": "^5.3.5",
+    "swc": "^1.0.11"
+  },
+  "devDependencies": {
+    "@types/next": "^9.0.0",
+    "@types/node": "18.0.3",
+    "@types/react": "^18.0.14",
+    "@types/react-dom": "^18.0.0",
+    "@types/styled-components": "^5.1.26",
+    "eslint": "^8.18.0",
+    "eslint-config-next": "12.2.0",
+    "typescript": "^4.6.3"
+  }
+}
