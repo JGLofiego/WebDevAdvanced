@@ -1,0 +1,41 @@
+{
+  "name": "6-twitter-v0.1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "commit": "pnpm -w commit",
+    "server": "json-server --watch db.json --port 8000"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^2.9.7",
+    "cookies-next": "^2.1.1",
+    "jose": "^4.9.0",
+    "json-server": "^0.17.0",
+    "jsonwebtoken": "^8.5.1",
+    "nanoid": "^4.0.0",
+    "next": "12.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.34.2",
+    "styled-components": "^5.3.5",
+    "swr": "^1.3.0",
+    "zod": "^3.18.0"
+  },
+  "devDependencies": {
+    "@swc/helpers": "^0.4.11",
+    "@types/js-cookie": "^3.0.2",
+    "@types/jsonwebtoken": "^8.5.9",
+    "@types/next": "^9.0.0",
+    "@types/node": "18.0.3",
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@types/styled-components": "^5.1.26",
+    "eslint": "^8.23.0",
+    "eslint-config-next": "12.2.0",
+    "typescript": "4.7.4"
+  }
+}

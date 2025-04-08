@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": "sj1O7rVPQB4WXLMpNkIed",
+      "email": "jg@lofi.samp",
+      "password": "eu nao sei",
+      "name": "jgzin",
+      "github": "nao sei",
+      "bio": "bio"
+    },
+    {
+      "id": "5IR7Kg6LhIe-vVV18cY3d",
+      "email": "lofi@beats.lof",
+      "password": "aaaaaaaaaa",
+      "name": "Lofi",
+      "github": "lofiego",
+      "bio": "bio"
+    },
+    {
+      "id": "SWnpqJkFuDsjePLPwu6yr",
+      "email": "b@b.bbb",
+      "password": "dddddddddd",
+      "name": "aaaaaaaaa",
+      "github": "ccccccc",
+      "bio": "bio"
+    },
+    {
+      "id": "meu amor",
+      "email": "jurubebinha.l@gmail.com",
+      "name": "elianfluz",
+      "password": "40028922",
+      "github": "jurubeba",
+      "bio": "bio"
+    },
+    {
+      "id": "19hl5dT7SovDMKq99GaM-",
+      "email": "lofi@beats.lof",
+      "password": "odeio tokens",
+      "name": "Jgabs",
+      "github": "pipipipopopo",
+      "bio": "bio"
+    },
+    {
+      "id": "wmiofIDdzh-QauW2Tvz4k",
+      "bio": "bio",
+      "name": "Medrado",
+      "password": "muquecafds",
+      "github": "medrado",
+      "email": "medrado@guilherme.ogro"
+    },
+    {
+      "id": "zLmterxdleNKv2qrX52Em",
+      "bio": "bio",
+      "name": "Kelvinho",
+      "password": "kelvinho1234",
+      "github": "kelvinsouza258",
+      "email": "kelvin@kelvin.kel"
+    }
+  ],
+  "posts": [
+    {
+      "id": "afa09f44-dbfa-4bc9-a320-4de567e81340",
+      "username": "kelvinho",
+      "userId": "zLmterxdleNKv2qrX52Em",
+      "github": "kelvinsouza258",
+      "message": "Tweetei",
+      "totalLikes": 1,
+      "totalComments": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": "afa09-dbfa-4bc9-a320-4de567e81340",
+      "userId": "zLmterxdleNKv2qrX52Em",
+      "username": "kelvinho",
+      "github": "kelvinsouza258",
+      "message": "Ratio",
+      "totalLikes": 6
+    }
+  ]
+}
